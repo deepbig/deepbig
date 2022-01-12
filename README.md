@@ -4,7 +4,7 @@ My name is Hongsuk and i'm a creator of lulluland!
 
 🔭 I’m **currently building [lulluland](https://github.com/deepbig/lulluland)** open source effort tracker app.
 
-![Hongsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepbig&show_icons=true&theme=dracula)
+![Hongsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepbig&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hongsuk)](https://www.linkedin.com/in/hongsuk/)
 
